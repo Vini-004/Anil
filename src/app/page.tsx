@@ -54,7 +54,7 @@ function Home() {
           
           <a href="#"> <CiLinkedin/> </a> 
           <a href="#">  <CiFacebook/> </a>
-          <a href="#">   <FaWhatsapp/> </a> 
+          <a href="https://api.whatsapp.com/send?phone=7597074959">   <FaWhatsapp/> </a> 
           
           </div>          
           <li>
@@ -67,7 +67,7 @@ function Home() {
       <div className=" main box flex ml-11 mt-10">
       <div className="pl-40 text-6xl  text-center">
         <h1> Dushyant Jangir</h1>
-        <h2 className="text-3xl"> Social Media Consultant </h2>
+        <h2 className="text-3xl"> Technical Expert </h2>
         <div className="box h-80 w-96 mt-20">
         <p className="text-lg leading-8 text-left text-gray-200">
         Dynamic Social Media Consultant with a proven track record of crafting impactful strategies to drive engagement, boost brand visibility, and increase ROI. Skilled in content creation, analytics, and multi-platform management, I specialize in turning creative ideas into measurable results.Let's connect and grow your online presence!
